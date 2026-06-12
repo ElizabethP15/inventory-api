@@ -11,14 +11,14 @@ const options = {
         'Autenticación JWT, roles admin/user, búsqueda y filtros con paginación.',
       contact: {
         name: 'Elizabeth Patiño',
-        url: 'https://github.com/elizapatinohenao',
+        url: 'https://github.com/ElizabethP15',
       },
     },
     servers: [
       {
         url:
           process.env.NODE_ENV === 'production'
-            ? 'https://tu-app.onrender.com' // actualizar al hacer deploy
+            ? 'https://inventory-api-k1cl.onrender.com' // actualizar al hacer deploy
             : 'http://localhost:3000',
         description:
           process.env.NODE_ENV === 'production' ? 'Producción' : 'Desarrollo',

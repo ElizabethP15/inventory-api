@@ -4,11 +4,11 @@ RESTful API para gestión de inventario de pequeños negocios.
 
 ## 🚀 Demo en vivo
 
-|                                 | URL                                  |
-| ------------------------------- | ------------------------------------ |
-| **API**                         | https://tu-app.onrender.com          |
-| **Swagger (docs interactivas)** | https://tu-app.onrender.com/api-docs |
-| **Health check**                | https://tu-app.onrender.com/health   |
+|                                 | URL                                              |
+| ------------------------------- | ------------------------------------------------ |
+| **API**                         | https://inventory-api-k1cl.onrender.com          |
+| **Swagger (docs interactivas)** | https://inventory-api-k1cl.onrender.com/api-docs |
+| **Health check**                | https://inventory-api-k1cl.onrender.com/health   |
 
 ## Stack
 
